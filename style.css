@@ -44,9 +44,175 @@ body {
     color: black;
     font-weight: bold;
     line-height: 25px;
+
+}
+
+.button-Donate-Now {
+    text-decoration: none;
+    display: inline;
+    width: 160px;
+    height: 160px;
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    line-height: 25px;
+    color: aliceblue;
+
+}
+
+.btn-center {
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 #headline-size {
     font-size: 40px;
     margin-top: 5%;
+}
+
+.display {
+    display: flex;
+    padding-left: 80px;
+
+
+}
+
+.container {
+    box-shadow: 10px 10px 40px gray;
+    width: 80px;
+    margin-left: 3%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    padding-left: 40px;
+    padding-right: 30px;
+    flex-direction: row;
+
+}
+
+#border-color {
+    color: coral;
+    border: 2px solid;
+
+
+}
+
+.other-amount {
+    border-bottom: 2px solid;
+    text-align: center;
+    opacity: 0.5;
+    margin-bottom: 20px;
+    width: 50%;
+    position: relative;
+    margin-left: 25%;
+
+
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#text-size {
+    font-size: 40px;
+
+}
+
+#clr-light {
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+}
+
+.row {
+    display: flex;
+}
+
+.section {
+    text-decoration: none;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+
+
+}
+
+#bg-color {
+    background-color: aquamarine;
+    opacity: 0.7;
+
+}
+
+#bg-color1 {
+    background-color: beige;
+    opacity: 0.7;
+}
+
+#bg-color2 {
+    background-color: cornsilk;
+    opacity: 0.7;
+}
+
+.child {
+    display: flex;
+}
+
+.info {
+    text-align: justify;
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-right: 30px;
+}
+
+.btn-2 {
+    text-decoration: none;
+    display: inline;
+    width: 160px;
+    height: 160px;
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    line-height: 25px;
+    color: aliceblue;
+
+
+}
+
+#kid {
+
+    margin-right: 60px;
+    margin-bottom: 10%;
+
+}
+
+.kid-img {
+    height: 450px;
+    border-radius: 10px;
+}
+
+#info-of-donation {
+    font-size: 40px;
+}
+
+.updates {
+    font-size: 50px;
+}
+
+.margin {
+    margin-bottom: 5%;
+}
+
+#adjust {
+    opacity: 04;
+    color: black;
+
 }
