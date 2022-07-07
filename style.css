@@ -9,7 +9,7 @@ body {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     width: 100%;
-    height: 450px;
+    height: 600px;
     background-size: cover;
     border: 1px solid;
 
@@ -214,5 +214,58 @@ body {
 #adjust {
     opacity: 04;
     color: black;
+
+}
+
+.blank-color {
+    box-sizing: border-box;
+
+    width: 50%;
+    margin-left: 25%;
+    height: 200px;
+    margin-bottom: 5%;
+    background-color: cornsilk;
+}
+
+.Subscribe {
+    padding: 12%;
+
+}
+
+.input-field {
+    height: 40px;
+    width: 240px;
+    border-radius: 5px;
+
+
+
+
+}
+
+#btn-subscribe {
+    height: 45px;
+    width: 160px;
+    background-image: linear-gradient(tomato, pink);
+    border-radius: 5px;
+
+}
+
+.footer {
+    text-align: center;
+    width: 100%;
+    border: 2px solid;
+    height: 100px;
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 30px;
+    background-color: black;
+}
+
+#be-Humble {
+    padding-top: 3%;
+    color: deeppink;
+    font-family: 'Splash', cursive;
+    font-weight: 300;
 
 }
